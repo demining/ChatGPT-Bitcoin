@@ -1,6 +1,26 @@
-	
+
+# ChatGPT Bitcoin
+
+---
+
+
+---
+
+
+
+
 <figure class="wp-block-image"><img decoding="async" src="./ChatGPT as artificial intelligence gives us great opportunities in the security and protection of the Bitcoin cryptocurrency from various attacks - CRYPTO DEEP TECH_files/041-1024x576.png" alt="ChatGPT as artificial intelligence gives us great opportunities in the security and protection of the Bitcoin cryptocurrency from various attacks." class="wp-image-3479"></figure>
 
+
+
+---
+
+
+* Tutorial: https://youtu.be/WZZv58aJ95E
+* Tutorial: https://cryptodeeptech.ru/chatgpt-bitcoin
+
+
+---
 
 
 <p>Bitcoin is an example of a decentralized network.&nbsp;There are no people or organizations that control it.&nbsp;This is part of its architecture.&nbsp;For many, the creation of Bitcoin Cash under the pretext that blocks with more memory would be beneficial is seen by most of the community as an example of an attack on decentralization.&nbsp;dependency on the stakeholder network and its technologies for mining and hosting nodes.&nbsp;</p>
